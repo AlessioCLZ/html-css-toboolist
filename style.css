@@ -18,7 +18,10 @@ body
 /*header*/
 
 h1{
-    font-size: 43px;
+    font-size: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
 }
 
 header
@@ -37,18 +40,20 @@ header
     margin-top: 35px;
 }
 
+/*main buttons*/
+
 .top
 {
-    padding-top: 3px;
-    padding-bottom: 3px;
-    padding-left: 30px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 50px;
     border-bottom: 2px solid;
     border-color: #f6f8f9;
 }
 
 .btn
 {
-    font-size: 13px;
+    font-size: 16px;
     border-radius: 5px;
     border: 1px solid;
     padding: 4px 8px;
@@ -68,4 +73,13 @@ header
     border-color: #c4cbd0;
     color: #c4cbd0;
     
+}
+
+/*main tasks*/
+
+.task
+{
+    padding-top: 25px;
+    padding-left: 50px;
+    padding-bottom: 25px;
 }
