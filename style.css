@@ -33,11 +33,12 @@ header
 
 .container
 {
-    width: 70%;
+    width: 60%;
     margin-left: auto;
     margin-right: auto;
     background-color: white;
     margin-top: 35px;
+    margin-bottom: 300px;
 }
 
 /*main buttons*/
@@ -82,4 +83,38 @@ header
     padding-top: 25px;
     padding-left: 50px;
     padding-bottom: 25px;
+}
+
+/*checks and crosses*/
+
+.check-cross
+{
+    display: inline-block;
+    border: 1px solid;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    font-size: 13px;
+    text-align: center;
+}
+
+.check
+{
+    border-color: #2cc6ab;
+    padding-left: 2px;
+    padding-bottom: 2px;
+    color: #2cc6ab;
+}
+
+.cross
+{
+    border-color: #ff0001;
+    color: #ff0001;
+}
+
+/*Strings*/
+
+.string
+{
+    display: inline-block;
 }
