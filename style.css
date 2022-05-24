@@ -88,7 +88,7 @@ header
 
 .list-bottom-margin
 {
-    margin-bottom: 14px;
+    margin-bottom: 20px;
 }
 
 ul.list-space li
@@ -96,6 +96,11 @@ ul.list-space li
     margin-top: 13px;
     margin-bottom: 10px;
     list-style-type: none;
+}
+
+h3
+{
+    padding-left: 3px;
 }
 
 /*checks and crosses*/
