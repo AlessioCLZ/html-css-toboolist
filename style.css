@@ -46,3 +46,26 @@ header
     border-color: #f6f8f9;
 }
 
+.btn
+{
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 4px 8px;
+    display: inline-block;
+}
+
+.btn-on
+{
+    background-color: #14aaf5;
+    color: white;
+    
+}
+
+.btn-off
+{
+    
+    border-color: #c4cbd0;
+    color: #c4cbd0;
+    
+}
